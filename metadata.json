@@ -1,0 +1,5 @@
+{
+  "name": "Exam Guruji Pro",
+  "description": "An expert AI coach for NTA UGC NET and SET exams, providing syllabus guidance, PYQ answers with descriptive notes, and exam trend analysis.",
+  "requestFramePermissions": ["camera"]
+}
